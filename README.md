@@ -6,7 +6,7 @@
 Checkout the backend by [clicking here](https://github.com/mardillu/edge-ai-backend)
 
 ### Demo
-Ghanaians can test this out by dialing * 920*223# on their phones
+Ghanaians can test this out by dialing * 920*223# on their phones. 
 Other users can use [this interactive demo](https://edge.mardillu.com/simulate)
 or watch the recorded video at [https://edge.mardillu.com/field-test](https://edge.mardillu.com/field-test)
 
